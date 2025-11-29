@@ -1,0 +1,36 @@
+# TVI Teknoloji
+
+> AI-Powered B2B SaaS Solutions for Turkish SMEs
+
+## About
+TVI Teknoloji is a Turkish technology company founded in 2010, building AI-powered B2B SaaS solutions for small and medium enterprises. The company focuses on digital transformation and AI adoption for Turkish businesses.
+
+## Products
+
+### Vizitmor
+Healthcare practice management system for clinics and medical professionals.
+- URL: https://vizitmor.com
+
+### BulunAI
+AI-powered SEO analysis platform for website optimization and search visibility.
+- URL: https://bulunai.com
+
+### MüşterimAI
+B2B sales intelligence platform for customer discovery and sales optimization.
+- URL: https://musterimai.com
+
+### KolayPost
+Content automation platform for professionals and consultants.
+- URL: https://kolaypost.com
+
+### NiyetAI
+Conversion optimization tool using AI for intent analysis.
+- URL: https://niyetai.com
+
+## Leadership
+- Founder & CEO: Teoman Metehan (https://teomanmetehan.com)
+
+## Contact
+- Website: https://tvi.com.tr
+- Email: info@tvi.com.tr
+- Location: Istanbul, Turkey
