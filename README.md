@@ -19,8 +19,7 @@ tvi.com.tr/
 1. **Hero** - Logo, tagline, CTA
 2. **Hakkımızda** - Şirket hikayesi, rakamlar
 3. **Ürünlerimiz** - 5 ürün kartı (BulunAI, Citation Studio, MüşteriMAI, Vizitmor, KolayPost)
-4. **Kurucu** - Teoman Metehan profili
-5. **İletişim** - Email, konum, form (frontend only)
+4. **İletişim** - Email, konum, form (frontend only)
 
 ## Local Development
 Tarayıcıda `index.html` dosyasını açın.

@@ -27,9 +27,6 @@ Content automation platform for professionals and consultants.
 Conversion optimization tool using AI for intent analysis.
 - URL: https://niyetai.com
 
-## Leadership
-- Founder & CEO: Teoman Metehan (https://teomanmetehan.com)
-
 ## Contact
 - Website: https://tvi.com.tr
 - Email: info@tvi.com.tr
